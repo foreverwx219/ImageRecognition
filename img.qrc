@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/bg">
+        <file>pic/beat.png</file>
+    </qresource>
+</RCC>
